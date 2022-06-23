@@ -1,0 +1,1 @@
+# hcaptcha-slover-by-paddleclas
